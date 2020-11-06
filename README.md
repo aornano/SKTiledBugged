@@ -1,5 +1,3 @@
-![SKTiled][header-image]
-
 > SKTiled is a Swift framework for using [Tiled][tiled-url] assets with Apple's SpriteKit.
 
 
